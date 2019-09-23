@@ -1,0 +1,14 @@
+/home/szymon/projekty/roboAPIs/bin/Debug/netcoreapp2.2/roboAPIs.deps.json
+/home/szymon/projekty/roboAPIs/bin/Debug/netcoreapp2.2/roboAPIs.runtimeconfig.json
+/home/szymon/projekty/roboAPIs/bin/Debug/netcoreapp2.2/roboAPIs.runtimeconfig.dev.json
+/home/szymon/projekty/roboAPIs/bin/Debug/netcoreapp2.2/roboAPIs.dll
+/home/szymon/projekty/roboAPIs/bin/Debug/netcoreapp2.2/roboAPIs.pdb
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.csprojAssemblyReference.cache
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.csproj.CoreCompileInputs.cache
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.RazorAssemblyInfo.cache
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.RazorAssemblyInfo.cs
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.AssemblyInfoInputs.cache
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.AssemblyInfo.cs
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.RazorTargetAssemblyInfo.cache
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.dll
+/home/szymon/projekty/roboAPIs/obj/Debug/netcoreapp2.2/roboAPIs.pdb
